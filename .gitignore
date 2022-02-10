@@ -1,0 +1,4 @@
+node_modules
+.env
+httpTests
+package-lock.json
